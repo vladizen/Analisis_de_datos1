@@ -1,6 +1,6 @@
 # 📊 Challenge Alura Latam - Ciencia de Datos 1
 
-Este proyecto forma parte del **Challenge Alura LATAM - Ciencia de Datos - ONE Oracle Next Education**. Su objetivo es aplicar las habilidades de análisis de datos para resolver problemas reales de negocio utilizando Python y librerías como `pandas`, `matplotlib` y `folium`.
+Este proyecto forma parte del **Challenge Alura LATAM - Ciencia de Datos - ONE Oracle Next Education**. Su objetivo es aplicar las habilidades de análisis de datos para resolver problemas reales de negocio utilizando Python.
 
 ---
 
@@ -12,16 +12,6 @@ El Sr. Juan, dueño de una cadena de 4 tiendas, necesita tomar una decisión est
 - Evaluar el rendimiento de cada tienda en diferentes aspectos.
 - Visualizar patrones y extraer conclusiones basadas en datos.
 - Recomendar qué tienda debería ser vendida, con justificación clara y objetiva.
-
----
-
-## 📁 Estructura del Proyecto
-
-- `notebook.ipynb`: Análisis completo en Google Colab o Jupyter Notebook.
-- `README.md`: Documentación del proyecto.
-- `facturacion_tiendas.png`: Gráfico de barras de ingresos por tienda.
-- `ventas_heatmap.html`: Mapa de calor interactivo de ventas por ubicación.
-- Otros gráficos: incluidos en el notebook para visualizaciones complementarias.
 
 ---
 
@@ -77,7 +67,6 @@ Luego de analizar todos los factores:
 
 - Aplicación de lógica de programación y pandas para análisis de datos reales.
 - Visualización efectiva de métricas de negocio.
-- Interpretación de datos espaciales y geográficos.
 - Toma de decisiones basada en evidencias cuantitativas.
 
 ---
